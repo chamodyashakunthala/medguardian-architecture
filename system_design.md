@@ -1,5 +1,5 @@
 1. System overview
-    This somple system is useful for patients who may forget to take medicines on time , and this syetm makes alarms for each schedules and send notification alarms for regarding patients, when the
+    This simple system is useful for patients who may forget to take medicines on time , and this syetm makes alarms for each schedules and send notification alarms for regarding patients, when the
    patients' status is critical, the system sends emegerncy notifications for patients'  relations.
 
 2. Layered Architecture
