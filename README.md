@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chamodyashakunthala/chamodyashakunthala/main/medguidian.png" width ="auto" alt="Profile Banner" />
+  <img src="https://raw.githubusercontent.com/chamodyashakunthala/medguardian-architecture/main/medguidian.png" width ="auto" alt="Profile Banner" />
 </p>
 
 
